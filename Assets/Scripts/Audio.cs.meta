@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60133e0043d4a6640aa7acc3b445c399
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: 3520db22c4aee4f4fa330206e4502deb, type: 3}
+  - playerDeathClip: {instanceID: 0}
+  - enemyDeathClip: {instanceID: 0}
+  - swordHitClip: {fileID: 8300000, guid: fd9cde1f2909e4740ad6c0d7ca8e7ee4, type: 3}
+  - bigLightClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
